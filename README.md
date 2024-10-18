@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya-078
-- 👀 I’m interested in mainly Web dev {HTML, CSS, JS, React, C++},  little bit of DSA
-- 🌱 I’m currently learning CSE B-tech
-- 💞️ I’m looking to collaborate on web dev projects...
+- 👀 I’m interested in mainly Web dev {FullStack Dev, ReactJS, NextJS, Python },  little bit of DSA
+- 🌱 I’m a CSE Grad..
+- 💞️ I’m looking to collaborate on software dev projects...
 - 📫 How to reach me My email - adi782001.pawar@gmail.com
 
 <!---
